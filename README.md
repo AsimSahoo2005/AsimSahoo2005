@@ -1,20 +1,22 @@
-## Hi there 👋
-
 # Hi 👋, I'm Asim Anshuman Sahoo
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | Data Science Student | Full Stack Developer
+AI Engineer | Machine Learning Enthusiast | Data Science Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%7C+Machine+Learning;Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+&+Machine+Learning;Data+Science+Explorer;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE Student at Silicon University
+🎓 B.Tech in Computer Science Engineering at Silicon University
+
+💻 Passionate about building intelligent AI solutions,
+developing scalable web applications, and solving
+real-world problems through Machine Learning and Data Science.
 
 🌱 Currently Learning
 
@@ -26,19 +28,12 @@ AI & Machine Learning Enthusiast | Data Science Student | Full Stack Developer
 
 - Artificial Intelligence
 - Machine Learning
-- Data Science an Data Analytics
+- Data Science & Data Analytics
 - Full Stack Development
 - Cloud Computing
 
 📫 Email
-
-```
 asim05.sahoo@gmail.com
-```
-
-⚡ Fun Fact
-
-> I enjoy building AI-powered applications that solve real-world problems.
 
 ---
 
@@ -68,17 +63,18 @@ asim05.sahoo@gmail.com
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,sql,c,cpp,javascript,typescript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css"/>
 
 </p>
 
-### Frameworks
+### Libraries
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,tensorflow"/>
-
-</p>
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- Librosa
 
 ### Databases
 
@@ -98,61 +94,23 @@ asim05.sahoo@gmail.com
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AsimSahoo2005&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimSahoo2005&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsimSahoo2005&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AsimSahoo2005&theme=tokyonight&margin-w=10&row=1"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
-## 💳 ATM Fraud Detection
+### 🎵 Urban Sound Classification
 
-Machine Learning project to detect fraudulent ATM transactions using classification algorithms.
+Deep learning model that classifies environmental sounds using MFCC features with ANN and CNN.
 
----
+### 💳 ATM Fraud Detection
 
-## 🎵 Urban Sound Classification
+Machine Learning system that identifies fraudulent ATM transactions using classification algorithms and feature engineering.
 
-Deep Learning project classifying environmental sounds using CNN and ANN.
+### 🌿 Plant Guide
 
----
+Production-ready MERN application that helps users identify and explore plants with authentication and CRUD operations.
 
-## 🌿 Plant Guide
+### 🤖 AI DocSuite
 
-A production-ready MERN Stack application for plant information and gardening techniques.
-
----
-
-## 🤖 AI DocSuite
-
-AI-powered document analyzer that summarizes PDFs, generates quizzes and converts documents.
+AI-powered document assistant that summarizes PDFs, generates quizzes, and converts documents using LLMs.
 
 ---
 
@@ -166,18 +124,13 @@ AI-powered document analyzer that summarizes PDFs, generates quizzes and convert
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/AsimSahoo2005/AsimSahoo2005/output/github-contribution-grid-snake.svg"/>
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+Thanks for visiting my profile 😊
 
 </p>
-
----
-
-# 👀 Profile Views
-
 <p>
 
 <img src="https://komarev.com/ghpvc/?username=AsimSahoo2005&label=Profile+Views&color=blue&style=flat"/>
@@ -185,5 +138,3 @@ AI-powered document analyzer that summarizes PDFs, generates quizzes and convert
 </p>
 
 ---
-
-⭐️ From **Asim Anshuman Sahoo**
