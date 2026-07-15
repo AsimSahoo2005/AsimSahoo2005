@@ -5,7 +5,7 @@ AI Engineer | Machine Learning Enthusiast | Data Science Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+&+Machine+Learning;Data+Science+Explorer;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+and+Machine+Learning;Data+Science+Explorer;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
